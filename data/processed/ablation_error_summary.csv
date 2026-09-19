@@ -1,0 +1,8 @@
+metric,value
+overall_MAE,1.3837895581969788
+overall_RMSE,1.7491086655978318
+overall_bias,-0.360451185419465
+median_absolute_error,1.1196786464935318
+maximum_absolute_error,5.336704845948679
+number_of_predictions,1005.0
+number_of_feature_sets,5.0
